@@ -18,7 +18,7 @@ Agora que o ambiente está configurado, você pode executar o projeto com os seg
 
 ## Inicie o Servidor
 python run.py – no terminal
-o servidor está disponível em: `http://localhost:5000`. Recomendamos a utilização da ferramenta Postman para interagir com as rotas do servidor. O Postman oferece uma interface amigável para testar e validar as requisições HTTP.
+o servidor está disponível em: `http://localhost:5000`. Recomendo a utilização da ferramenta Postman para interagir com as rotas do servidor. Vale a pens reelembrar que o postman oferece uma interface amigável para testar e validar as requisições HTTP.
 
 ## Testes Automatizados
 Para garantir a qualidade do código, são fornecidos testes automatizados.
